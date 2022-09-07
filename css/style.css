@@ -1,0 +1,20 @@
+.homepage {
+font-family: cursive;
+font-size: 100px;
+font-style: italic;
+margin-left: 250px;
+color: white;
+}
+
+.recipes {
+  font-family: fantasy;
+  font-size: 60px;
+  font-style: italic;
+  margin-left: 250px
+}
+
+body {
+
+background-color: #020302;
+
+}
