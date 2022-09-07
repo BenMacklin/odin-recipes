@@ -6,12 +6,31 @@ margin-left: 250px;
 color: white;
 }
 
+
+.header{
+background-color: #84875f;
+width: 100px;
+position: relative;
+}
+
 .recipes {
   font-family: fantasy;
   font-size: 60px;
   font-style: italic;
   margin-left: 250px
 }
+.main {
+margin-left: 400px;
+
+}
+
+.menu{
+background-color: #84875f;
+width: 1000px;
+position: relative;
+}
+
+
 
 body {
 
