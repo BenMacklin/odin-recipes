@@ -59,10 +59,27 @@ width: 1000px;
 margin-left: 100px;
 }
 
+.braise {
+margin-left:  20em;
+border-color: black;
+border-width: medium;
+border-style: solid;
+
+}
+
+.bring {
+margin-left: 5em;
+
+}
+
 .bralist {
 
+font-style: italic;
 font-family: serif;
-font-size: 100px;
+font-size: 1em;
+column-count: 2;
+column-width: 5em;
+margin-top: 0px;
 
 }
 
