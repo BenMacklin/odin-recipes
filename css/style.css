@@ -46,8 +46,9 @@ margin-left: 350px;
 
 .second {
 margin-left: 100px;
-margin-top: 100px;
 margin-right: 100px;
+max-width: 100em;
+width: 62.5em;
 
 
 }
