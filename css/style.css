@@ -66,6 +66,10 @@ margin-left: 15em;
 
 }
 
+.head3{
+margin-left: 14.5em;
+
+}
 .menu{
 background-color: #84875f;
 width: 1000px;
@@ -98,8 +102,22 @@ max-width: 40em;
 max-height: 30em;
 }
 
+.braise3 {
+margin-left:  26.5em;
+border-color: black;
+border-width: medium;
+border-style: solid;
+max-width: 40em;
+max-height: 30em;
+}
+
 .bring {
 margin-left: 5em;
+
+}
+.bring1 {
+margin-left: 27em;
+margin-bottom: 1em;
 
 }
 
@@ -111,6 +129,9 @@ font-size: 1.5em;
 column-count: 2;
 column-width: 5em;
 margin-top: 0px;
+border-style: groove;
+border-width: thick;
+border-color: green;
 
 }
 
