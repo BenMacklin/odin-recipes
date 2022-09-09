@@ -61,6 +61,11 @@ margin-left: 17em;
 
 }
 
+.head2{
+margin-left: 15em;
+
+}
+
 .menu{
 background-color: #84875f;
 width: 1000px;
@@ -78,6 +83,14 @@ max-height: 30em;
 
 .braise1 {
 margin-left:  23em;
+border-color: black;
+border-width: medium;
+border-style: solid;
+max-width: 40em;
+max-height: 30em;
+}
+.braise2 {
+margin-left:  28em;
 border-color: black;
 border-width: medium;
 border-style: solid;
